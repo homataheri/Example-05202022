@@ -9,3 +9,7 @@ This is a sample readme file for our Github Example repo. We're learning Markdow
 
 ## Link Example
 [Codetime](https://codetime.io)
+
+1. Item One
+2. item Two
+3. Item Three
