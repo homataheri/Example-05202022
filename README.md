@@ -8,4 +8,4 @@ This is a sample readme file for our Github Example repo. We're learning Markdow
 * Pretty cool, huh?
 
 ## Link Example
-[CodeTime](https://www.codetime.io)
+[Codetime](https://www.codetime.io)
